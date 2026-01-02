@@ -39,3 +39,5 @@ graphflowchart LR
     n2@{ icon: "mc:default", pos: "b"}
     n3@{ img: "https://static.mermaidchart.dev/whiteboard/default-image-shape.svg", h: 200, w: 200, pos: "b"}
     n4@{ icon: "fa:file-code", pos: "b"}
+
+```
